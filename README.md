@@ -1,2 +1,2 @@
-# Juste a simple presentation.
+# Just a simple presentation.
 
