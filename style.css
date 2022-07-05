@@ -1,0 +1,68 @@
+body {
+    margin-top: 60px;
+    position: relative;
+    /* need the Gravitas+One font : fonts.googleapis.com/css?family=Gravitas+One */
+    font-family: 'Gravitas One', serif;
+  }
+  
+  .navbar-brand span, .lead, i {
+      color: white;
+  }
+  
+  .navbar-header {
+      padding-left: 10%;
+  }
+  #menu {
+      padding-right: 5%;
+  }
+  .lead  {
+      font-size: 25px;
+  }
+  
+  .well {
+      background-color: #222;
+  }
+  
+  /* need the Philosopher font : fonts.googleapis.com/css?family=Philosopher */
+  .blockquote {
+      font-family: Philosopher, sans-serif;
+      color: #777;
+  }
+  
+  .blockquote-footer {
+      font-style: italic;
+      color: #555;
+  }
+  
+  .icons {
+      font-size: 35px;
+      text-align: center;
+      margin-top: 12%;
+  }
+  
+  #send {
+      border-color: #222;
+  }
+  
+  .fa-paper-plane {
+      color: #222;
+  }
+  
+  #footer {
+      background-color: #222;
+      color: white;
+      margin-top: 20px;
+  }
+  
+  #copyright {
+      font-size: 15px;
+      text-align: right;
+      font-family: 'Gravitas One', serif;
+      padding: 2% 5% 1% 0%;
+  }
+  
+  #social {
+      font-size: 30px;
+      padding: 1.5% 0% 1% 10%;
+  }
+  
