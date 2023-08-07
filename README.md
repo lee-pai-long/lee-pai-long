@@ -3,7 +3,8 @@
 Hello, World! Je suis **Lee Pai Long** a.k.a **Saidina MOHAMED ALI**.<br>
 A senior software engineer speciliazed in *Python(Flask, Django)*.<br>
 I use *Linux* as my main OS, love *Git*, use *React* for frontend development,<br>
-*AWS* as cloud provider, *Pulumi* for cloud provisioning and *Ansible/Ansistrano* for deployment.
+PostgreSQL as my main database, *AWS* as cloud provider,<br>
+*Pulumi* for cloud provisioning and *Ansible/Ansistrano* for deployment.
 
 Some time ago, I chose software engineering as my Kung-fu.<br>
 Since then I try to achieve knowledge and skills through patience and practice.
