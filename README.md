@@ -2,10 +2,11 @@
 
 # Lee Pai Long 
 
-Hello, World! I'm Lee Pai Long.<br>
-A python developer that currently try to learn frontend black magic.<br>
-Some time ago, I chose IT as my Kung-fu.<br>
-I try to achieve skills and knowledge through patience, hard work and practice.
+Hello, World! I'm Saidina MOHAMED ALI a.k.a Lee Pai Long.<br>
+A senior software engineer speciliazed in Python,<br>
+also doing frontend with React and OPS with Pulumi and Ansible.<br>
+Some time ago, I chose software engineering as my Kung-fu.<br>
+Since then I try to achieve knowledge and skills through patience and practice.
 
 > Be like water making its way through cracks. 
 > Do not be assertive,
@@ -17,10 +18,3 @@ I try to achieve skills and knowledge through patience, hard work and practice.
 > You put it in a teapot, it becomes the teapot.
 > Now, water can flow or it can crash. Be water, my friend.
 - Bruce Lee
-
----
-
-<i class="devicon-git-plain"></i>
-<i class="devicon-docker-plain"></i>
-<i class="devicon-vscode-plain"></i>
-<i class="devicon-python-plain"></i>
