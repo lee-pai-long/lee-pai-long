@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://bit.ly/3P1Mgll">
 
-#  Saidina MOHAMED ALI a.k.a Lee Pai Long 
+# Lee Pai Long a.k.a Saidina MOHAMED ALI
 
-Hello, World! I'm Saidina MOHAMED ALI a.k.a Lee Pai Long.<br>
+Hello, World! I'm Lee Pai Long a.k.a Saidina MOHAMED ALI.<br>
 A senior software engineer speciliazed in Python(Flask, Django).<br>
 I also do frontend with React and DevOps with Pulumi and Ansible.<br>
 Some time ago, I chose software engineering as my Kung-fu.<br>
