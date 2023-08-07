@@ -3,8 +3,8 @@
 # Lee Pai Long 
 
 Hello, World! I'm Saidina MOHAMED ALI a.k.a Lee Pai Long.<br>
-A senior software engineer speciliazed in Python,<br>
-also doing frontend with React and OPS with Pulumi and Ansible.<br>
+A senior software engineer speciliazed in Python(Flask, Django).<br>
+I also do frontend with React and DevOps with Pulumi and Ansible.<br>
 Some time ago, I chose software engineering as my Kung-fu.<br>
 Since then I try to achieve knowledge and skills through patience and practice.
 
