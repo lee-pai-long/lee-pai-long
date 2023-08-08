@@ -33,7 +33,8 @@ So I try to learn, then adapt to the requirements, I try to be like water:
 > If you put water into a cup, it becomes the cup.<br>
 > You put water into a bottle and it becomes the bottle.<br>
 > You put it in a teapot, it becomes the teapot.<br>
-> Now, water can flow or it can crash. Be water, my friend.
+> Now, water can flow or it can crash.<br>
+> Be water, my friend.
 - Bruce Lee
 
 [1]: https://en.wikipedia.org/wiki/Journeyman
