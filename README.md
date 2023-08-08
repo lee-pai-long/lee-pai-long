@@ -1,15 +1,15 @@
 # Lee Pai Long a.k.a Saidina MOHAMED ALI
 
 Hello, World! Je suis **Lee Pai Long** a.k.a **Saidina MOHAMED ALI**.<br>
-A senior software engineer speciliazed in *Python(Flask, Django)*.<br>
-I use *Linux* as my main OS, love *Git*, use *React* for frontend development,<br>
-*PostgreSQL* as database, *Docker* as container runtime, *AWS* as cloud provider,<br>
-*Pulumi* for cloud provisioning and *Ansible/Ansistrano* for deployment.
+A senior software engineer specialized in *Python(Flask, Django)*.<br>
+I use *Linux* as my main OS, love *Git*, I'm learning *React* for front-end development,<br>
+*PostgreSQL* is my go to database, *Docker* my container runtime, *AWS* my cloud provider of choice,<br>
+and *Pulumi*, the framework for cloud provisioning and *Ansible/Ansistrano* for VM provisioning / app deployment.
 
 Some time ago, I chose software engineering as my Kung-fu.<br>
-Since then I try to achieve knowledge and skills through patience and practice.
+Since then I have tried to achieve knowledge and skills through patience and practice.
 
-The way I try to learn is deeply linked in the **Shu Ha Ri** concept.
+The way I try to learn is deeply linked to the **Shu Ha Ri** concept.
 
 **Shu Ha Ri** is a Japanese martial art concept, and describes the stages of learning to mastery.<br>
 The word shuhari roughly translates to "first learn, then detach, and finally transcend."
@@ -21,8 +21,8 @@ The word shuhari roughly translates to "first learn, then detach, and finally tr
 
 **Ri:** The disciple having mastered the rules, can transcend and adapt them to their needs/desires.
 
-In Computer Science / Software engineering the **Ha** is sometimes<br>
-refered to as the [the journeyman][1], and the journeyman never ends...
+In Computer Science / Software engineering, the **Ha** is sometimes<br>
+referred to as the [the journeyman][1], and the journeyman never ends...
 
 So I try to learn, then adapt, to the needs, the holy requirements, I try to be like water:
 
