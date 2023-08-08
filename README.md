@@ -24,7 +24,7 @@ The word shuhari roughly translates to "first learn, then detach, and finally tr
 In Computer Science / Software engineering, the **Ha** is sometimes<br>
 referred to as the [the journeyman][1], and the journey never ends...
 
-So I try to learn, then adapt, to the needs, the holy requirements, I try to be like water:
+So I try to learn, then adapt to the requirements, I try to be like water:
 
 > Be like water making its way through cracks.<br>
 > Do not be assertive, but adjust to the object, and you shall find a way around or through it.<br>
