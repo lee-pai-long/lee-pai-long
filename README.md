@@ -37,4 +37,6 @@ So I try to learn, then adapt to the requirements, I try to be like water:
 > Be water, my friend.
 - Bruce Lee
 
+[Presentation and résumé in french](https://lee-pai-long.github.io/resume)
+
 [1]: https://en.wikipedia.org/wiki/Journeyman
